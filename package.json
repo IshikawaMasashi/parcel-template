@@ -1,0 +1,22 @@
+{
+  "name": "parcel-template",
+  "version": "1.0.0",
+  "author": "雅史 石川",
+  "license": "MIT",
+  "devDependencies": {
+    "@parcel/optimizer-cssnano": "2.0.0-nightly.599+36035d8d",
+    "@parcel/optimizer-htmlnano": "2.0.0-nightly.599+36035d8d",
+    "@parcel/packager-css": "2.0.0-nightly.599+36035d8d",
+    "@parcel/packager-html": "2.0.0-nightly.599+36035d8d",
+    "@parcel/transformer-css": "2.0.0-nightly.599+36035d8d",
+    "@parcel/transformer-html": "2.0.0-nightly.599+36035d8d",
+    "@parcel/transformer-postcss": "2.0.0-nightly.599+36035d8d",
+    "@parcel/transformer-posthtml": "^2.0.0-alpha.3",
+    "@parcel/transformer-sass": "2.0.0-nightly.599+36035d8d",
+    "@parcel/transformer-typescript-tsc": "2.0.0-nightly.599",
+    "@parcel/validator-typescript": "2.0.0-nightly.599",
+    "parcel": "^2.0.0-beta.1",
+    "postcss": "^8.2.1",
+    "typescript": "^4.1.5"
+  }
+}
